@@ -16,7 +16,7 @@ class App extends Component {
       <div>
         <Hello name={this.state.name} />
         <p>
-          We help customer avoid fraud by listing every known bank account linked to fraud and scammers
+          We help customer avoid fraud by listing every known bank account linked to fraud and scammers.
         </p>
       </div>
     );
